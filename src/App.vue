@@ -1,7 +1,7 @@
 <template>
   <div id="app" class="bg-green-600 py-56 min-h-screen">
     <div class="container mx-auto text-center px-8">
-      <h2 class="text-3xl lg:text-6xl font-bold mb-2 text-white">This is a vue app</h2>
+      <h2 class="text-3xl lg:text-6xl font-bold mb-2 text-white">This title should change if it's working</h2>
          <div class="flex justify-center space-x-2 mt-6 lg:mt-10">
         <a
           href="https://www.digitalocean.com/docs/app-platform"
